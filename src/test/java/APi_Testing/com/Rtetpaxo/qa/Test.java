@@ -11,12 +11,6 @@ public class Test {
 		WebDriver driver = new FirefoxDriver();
 		driver.get("www.google.com");
 
-		System.out.println("test");
-		System.out.println("test");
-		System.out.println("test");
-		System.out.println("test");
-		System.out.println("test");
-		System.out.println("test");
 	}
 
 }
